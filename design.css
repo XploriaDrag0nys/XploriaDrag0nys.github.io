@@ -1,1 +1,7 @@
-
+	body
+	{
+	width: 760px;
+	margin: auto; /* Pour centrer notre page */
+	margin-top: 10px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur.  */
+	margin-bottom: 10px;    /* aussi pour le bas du navigateur */
+	background-color: #33ffff; /* Un fond pour éviter d'avoir un fond blanc  */	}
