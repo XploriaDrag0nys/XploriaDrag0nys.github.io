@@ -6,4 +6,11 @@ margin-top: 10px; /* Pour éviter de coller avec le haut de la fenêtre du navig
 margin-bottom: 10px;    /* aussi pour le bas du navigateur */
 background-color: #33ffff; /* Un fond pour éviter d'avoir un fond blanc  */	}
 
+#noirgauche {
+  widht: 50px;
+  height: 50px;
+  background-color: black;
+  
+}
+
 
