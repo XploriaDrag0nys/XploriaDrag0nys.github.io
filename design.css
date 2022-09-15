@@ -5,3 +5,12 @@
 	margin-top: 10px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur.  */
 	margin-bottom: 10px;    /* aussi pour le bas du navigateur */
 	background-color: #33ffff; /* Un fond pour éviter d'avoir un fond blanc  */	}
+
+	#en_tete
+	{
+	width: 760px;
+	height: 100px;
+	background-image: url("images1/banniere.png");
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	border: 1px solid black;	}
