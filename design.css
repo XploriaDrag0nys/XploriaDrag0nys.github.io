@@ -3,5 +3,13 @@
   left: 800px;
   
 }
+body{
+margin:0px;
+}
+#header{
+height:120px;
+background:#2F2F2E;
+}
+
 
 
