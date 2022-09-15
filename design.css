@@ -1,15 +1,15 @@
-#noirgauche {
-  position : relative;
-  left: 800px;
-  
+html{
+ height:100%;
 }
 body{
-margin:0px;
+ background-color:aqua;
+ height:100%;
+ margin:0;
+ padding:0;
 }
-#header{
-height:120px;
-background-color:purple;
+#container{
+ width:1024px;
+ min-height:100%;
+ background-color:#fff;
+ margin:auto;
 }
-
-
-
