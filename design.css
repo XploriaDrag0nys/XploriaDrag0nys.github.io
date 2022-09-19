@@ -1,11 +1,21 @@
 body{
- background-image:url(https://www.iclub-informatique.fr/wp-content/uploads/2020/07/iclub-informatique-slider-scaled.jpg);
- background-position:left;
- background-size:300px 1000px;
- background-repeat:no-repeat;
- 
- margin: auto;
- width : 1000px;
-
- 
+    background-image:url(logo_kotlin.jpg), url(logo_css.png), url(logo_c++.png), url(logo_csharp.png), url(logo_md.png), url(java_logo.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png), url(coter_droite.png), url(coter_gauche.png), url(fond.jpg);
+    background-position:2.5cm 4cm, 31cm 8cm, 32.8cm 10.9cm, 34cm 5cm, 32cm 1cm, 2.5cm 11cm, 1cm 7cm, 1cm 1cm, right, left, center;
+    background-size:70px 70px, 100px 70px, 70px 70px, 80px 70px, 100px 70px, 130px 70px, 70px 70px, 70px 70px,350px 1000px, 350px 1000px,700px 1200px;
+    background-repeat:no-repeat;
+    
+    margin: auto;
+    width : 1000px;
+   }
+h1{
+    color: rgb(255, 255, 255);
+    text-shadow: #000000 2px 2px, #000000 -2px 2px, #000000 -2px -2px, #000000 2px -2px;
 }
+h3{
+    color: rgb(255, 255, 255);
+    text-shadow: #000000 2px 2px, #000000 -2px 2px, #000000 -2px -2px, #000000 2px -2px;
+}
+p{
+    color: rgb(234, 5, 255);
+}
+
