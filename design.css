@@ -1,8 +1,9 @@
 body{
-    background-image:url(logo_swift.png), url(logo_kotlin.jpg), url(logo_css.png), url(logo_c++.png), url(logo_csharp.png), url(logo_md.png), url(java_logo.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png), url(coter_droite.png), url(coter_gauche.png), url(fond.jpg);
-    background-position:2% 140%, 5% 30% , 93% 140%, 94% , 97% 100%, 98% 10%, 6% 110%, 3% 70%, 2% 0%, right, left, center;
-    background-size:4%, 6%, 5%, 5%, 5%, 5%, 9%, 5%, 5%, 20% 1000%, 20% 1000%,200%;
+    background-image:url(logo_swift.png), url(logo_kotlin.jpg), url(logo_css.png), url(logo_c++.png), url(logo_csharp.png), url(logo_md.png), url(java_logo.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png), url(coter_droite.png), url(coter_gauche.png);
+    background-position:2% 140%, 5% 30% , 93% 140%, 94% , 97% 100%, 98% 10%, 6% 110%, 3% 70%, 2% 0%, right, left;
+    background-size:4%, 6%, 5%, 5%, 5%, 5%, 9%, 5%, 5%, 20% 1000%, 20% 1000%;
     background-repeat:no-repeat;
+    background-color:purple;
     margin: auto;
 
 }
